@@ -1,4 +1,6 @@
-### Hi there <a rel="me" href="https://kaputtendorf.de/@ansiwen">👋</a>
+### Hi there 👋
+
+<a rel="me" href="https://kaputtendorf.de/@ansiwen">Mastodon</a>
 
 <!--
 **ansiwen/ansiwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
